@@ -7,3 +7,4 @@
 </div>
 <h3>Instrutores: <a href="https://www.instagram.com/paulo_hipster/" target='_blank'>Paulo Silveira</a> | <a href="https://www.instagram.com/nayanne.tech/" target='_blank'>Nayanne Lopes</a> | <a href="https://github.com/omariosouto" target='_blank'>Mario Souto (DevSoutinho)</a></h3>
 <p>Projeto realizado no período de 07 a 11 de Novembro - 2022</p>
+<h3>💜 React - Next.js - NodeJS 💜</h3>

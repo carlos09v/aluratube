@@ -1,0 +1,70 @@
+{
+    "name": "Carlos Vinicius",
+    "job": "Full-Stack Student",
+    "github": "carlos09v",
+    "bg": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1120&q=80",
+    "playlists": {
+        "jogos": [
+            {
+                "title": "The Sims DE GRAÇA",
+                "url": "https://www.youtube.com/watch?v=qYNKNT5TjHA&list=PL5z4rxDR4U37q29CXqe8IZg95Z47XkPN-&index=10",
+                "thumb": "https://i.ytimg.com/vi/qYNKNT5TjHA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCmP8No8b-A95RcXEJncBrV2bcXQw"
+            },
+            {
+                "title": "JOGO ASSUSTADOR DE FNAF no Roblox Forgotten Memories",
+                "url": "https://www.youtube.com/watch?v=1rmltY-xSDs&list=PL5z4rxDR4U37q29CXqe8IZg95Z47XkPN-&index=5",
+                "thumb": "https://i.ytimg.com/vi/1rmltY-xSDs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCsekF3UyT97_lZTL_wLs3s3fTnUA"
+            },
+            {
+                "title": "TOWER OF FANTASY TIER LIST",
+                "url": "https://www.youtube.com/watch?v=ssh45v9oKsQ&list=PL5z4rxDR4U37q29CXqe8IZg95Z47XkPN-&index=29",
+                "thumb": "https://i.ytimg.com/vi/ssh45v9oKsQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBGJfZU3_-YEgUTDOVj5noq9nvHFw"
+            },
+            {
+                "title": "VALORANT | ESTILHAÇOS - Animação do Episódio 5: DIMENSÃO",
+                "url": "https://www.youtube.com/watch?v=yH2Oip06klQ&list=PL5z4rxDR4U37q29CXqe8IZg95Z47XkPN-&index=98",
+                "thumb": "https://i.ytimg.com/vi/yH2Oip06klQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBRfcwt4usibPk_MmzluJwD4hoJZw"
+            }
+        ],
+        "front-end": [
+            {
+                "title": "PROJETO DE REACT E SASS PARA O SEU PORTFÓLIO - INTEGRAÇÃO DE REACT COM SASS",
+                "url": "https://www.youtube.com/watch?v=5h4vMtBlQQU&list=PL5z4rxDR4U34JWlsON9KtkOjDJzAL-j_n&index=6",
+                "thumb": "https://i.ytimg.com/vi/5h4vMtBlQQU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBJxSQcNCLMTc238_tdQQ-ICGhdcA"
+            },
+            {
+                "title": "Como personalizar o seu perfil no Github (Readme)",
+                "url": "https://www.youtube.com/watch?v=TsaLQAetPLU&list=PL5z4rxDR4U34JWlsON9KtkOjDJzAL-j_n&index=9",
+                "thumb": "https://i.ytimg.com/vi/TsaLQAetPLU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDS84T42_HEc18DNBrr04sA23TwQA"
+            },
+            {
+                "title": "O que é React JS? #HipstersPontoTube",
+                "url": "https://www.youtube.com/watch?v=6IuQUgeDPg0&list=PL5z4rxDR4U34JWlsON9KtkOjDJzAL-j_n&index=11",
+                "thumb": "https://i.ytimg.com/vi/6IuQUgeDPg0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB1mxfh1V-XomCiMRVpRHkPaXqfbg"
+            },
+            {
+                "title": "React JS // Dicionário do Programador",
+                "url": "https://www.youtube.com/watch?v=NhUr8cwDiiM&list=PL5z4rxDR4U34JWlsON9KtkOjDJzAL-j_n&index=13",
+                "thumb": "https://i.ytimg.com/vi/NhUr8cwDiiM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCWP7fPbJ80Q_pZcsLZoY6d_MBJ0Q"
+            }
+        ],
+        "back-end": [
+            {
+                "title": "Introdução à modelagem de dados: Diagrama Entidade Relacionamento (DER)",
+                "url": "https://www.youtube.com/watch?v=1C3c9HJrcFo&list=PL5z4rxDR4U34JWlsON9KtkOjDJzAL-j_n&index=29",
+                "thumb": "https://i.ytimg.com/vi/1C3c9HJrcFo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCduCjUaC4L3taalagONvflPBri3w"
+            },
+            {
+                "title": "Como Instalar MYSQL 💡 WorkBench e Server 💡 (2022)",
+                "url": "https://www.youtube.com/watch?v=zpssr3u1EO8&list=PL5z4rxDR4U34JWlsON9KtkOjDJzAL-j_n&index=27",
+                "thumb": "https://i.ytimg.com/vi/zpssr3u1EO8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAi4n_p60tPJK5LplAGAMOctiVV3g"
+            },
+            {
+                "title": "Live inicial Semana do Banco de Dados - (07/08 ás 20h)",
+                "url": "https://www.youtube.com/watch?v=5ILq5WBW0MY&list=PL5z4rxDR4U34JWlsON9KtkOjDJzAL-j_n&index=45",
+                "thumb": "https://i.ytimg.com/vi/5ILq5WBW0MY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCyT3NUus-RBGhQhZAy7I9IYv7sgg"
+            }
+        ]
+    }
+    
+}

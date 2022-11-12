@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@supabase/supabase-js": "^2.1.0",
     "@types/node": "18.11.9",
     "@types/react": "18.0.25",
     "@types/react-dom": "18.0.8",
@@ -22,7 +23,11 @@
     "0": "npx create-next-app@latest --typescript",
     "1": "npm uninstall eslint eslint-config-next",
     "2": "npm i styled-components",
-    "3": "npm i --save-dev @types/styled-components"
+    "3": "npm i --save-dev @types/styled-components",
+    "4": "npm i @supabase/supabase-js"
+  },
+  "_comments": {
+    "4": "Backend as a Service (BaaS) and Database as a Service (DBaaS)"
   },
   "devDependencies": {
     "@types/styled-components": "^5.1.26"

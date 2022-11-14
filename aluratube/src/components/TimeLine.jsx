@@ -31,7 +31,7 @@ const StyledTimeline = styled.div`
       grid-template-columns: repeat(auto-fill,minmax(200px,1fr));
       grid-auto-flow: column;
       grid-auto-columns: minmax(200px,1fr);
-      overflow-x: scroll;
+      overflow-x: auto;
       scroll-snap-type: x mandatory;
       a {
         scroll-snap-align: start;
@@ -41,6 +41,17 @@ const StyledTimeline = styled.div`
           padding-right: 24px;
           color: ${({ theme }) => theme.textColorBase || "#222222"};
         }
+      }
+      ::-webkit-scrollbar {
+        width: 16px;
+      } 
+      ::-webkit-scrollbar-track {
+        background: ${({ theme }) => theme.backgroundScrollbarTrack};
+        border-radius: 10px;
+      }
+      ::-webkit-scrollbar-thumb {
+        background: rgb(179, 178, 179);
+        border-radius: 10px;
       }
     }
   }

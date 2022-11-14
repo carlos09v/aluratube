@@ -12,6 +12,7 @@ const theme = {
       backgroundLevel2: "#f0f0f0",
       borderBase: "#e5e5e5",
       textColorBase: "#222222",
+      backgroundScrollbarTrack: 'rgb(240, 240, 240)'
   },
   dark: {
       backgroundBase: "#181818",
@@ -19,6 +20,7 @@ const theme = {
       backgroundLevel2: "#313131",
       borderBase: "#383838",
       textColorBase: "#FFFFFF",
+      backgroundScrollbarTrack: 'rgb(49, 49, 49)'
   }
 };
 
